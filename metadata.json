@@ -1,0 +1,7 @@
+{
+  "name": "LeadScout AI",
+  "description": "An AI-powered bot that searches the web and Google Maps to find business leads and extract contact information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
